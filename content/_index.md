@@ -92,7 +92,7 @@ sections:
             - Share silliness
             - Make connections
           # Upload image to `assets/media/` and reference the filename here
-          image: coffee.jpg
+          image: testi1.png
           button:
             text: Show up
             url: https://www.meetup.com/spark-chance-improv/events/

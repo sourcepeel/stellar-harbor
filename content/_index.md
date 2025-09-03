@@ -43,6 +43,9 @@ sections:
       title: What we offer
       text: Transform Through Play
       items:
+        - name: Personal Growth
+          icon: star
+          description: Build confidence, quick thinking, and emotional intelligence through improv. Our exercises, inspired by techniques like Viola Spolin’s, help you navigate life’s challenges with creativity and resilience.
         - name: Playful De-Stress with a Twist
           icon: code-bracket
           description: Our bold, fun-filled workshops turn stress into laughter with a touch of sass. Dive into improv’s quirky world and feel refreshed, no meditation required.

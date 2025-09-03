@@ -16,15 +16,15 @@ sections:
   - block: hero
     content:
       title: Get into the routine of showing up... for life
-      text: Grow Just by Showing Up
+      text: Transform Through Play
       primary_action:
-        text: Get Started
+        text: Show up
         url: https://www.meetup.com/spark-chance-improv/events/
         icon: rocket-launch
       announcement:
         text: "Now meeting once a week."
         link:
-          text: "Join in"
+          text: "Show up"
           url: "https://www.meetup.com/spark-chance-improv/events/"
     design:
       spacing:
@@ -46,7 +46,7 @@ sections:
     id: features
     content:
       title: What we offer
-      text: Transform Through Play
+      text: Grow Just by Showing Up
       items:
         - name: Tailored Training for All Levels
           icon: magnifying-glass

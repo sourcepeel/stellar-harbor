@@ -43,9 +43,10 @@ sections:
       title: What we offer
       text: Transform Through Play
       items:
-        - name: Tailored Training for All Levels
-          icon: magnifying-glass
-          description: Whether you're a beginner exploring improv for fun or a seasoned clown sharpening your skills, Spark Chance offers customises our meetups for every skill level. From foundational techniques to structured scene work, we meet you where you are.
+        
+       - name: Fun vibes
+          icon: bolt
+          description: Experience the joy of improv in a welcoming, inclusive space. Our meetups are designed to spark laughter, creativity, and connection, making learning both impactful and unforgettable.
         - name: Reaccess Forgotten Potential
 Improv’s playful exercises quietly dissolve self-doubt and fear, helping you break through personal barriers. Discover newfound confidence and creativity as you embrace spontaneity in a supportive, fun environment.
           icon: sparkless

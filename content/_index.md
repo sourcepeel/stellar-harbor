@@ -43,6 +43,9 @@ sections:
       title: What we offer
       text: Transform Through Play
       items:
+        - name: Playful De-Stress with a Twist
+          icon: code-bracket
+          description: Our bold, fun-filled workshops turn stress into laughter with a touch of sass. Dive into improv’s quirky world and feel refreshed, no meditation required.
         - name: Unshakeable Strength Through Play
           icon: rectangle-group
           description: Develop the mental toughness to face life’s ups and downs through fun improv scenarios. You’ll master staying grounded and resourceful, ready for any situation with a smile.

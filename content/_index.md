@@ -112,7 +112,7 @@ sections:
       text: Our fun, high-energy classes fan the flames of your creativity through spontaneous storytelling and collaboration. Watch your ideas soar in a supportive, imaginative environment.
       button:
         text: Show up
-            url: https://www.meetup.com/spark-chance-improv/events/
+        url: https://www.meetup.com/spark-chance-improv/events/
     design:
       card:
         # Card background color (CSS class)

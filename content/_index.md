@@ -43,7 +43,6 @@ sections:
       title: What we offer
       text: Transform Through Play
       items:
-        
        - name: Fun vibes
           icon: bolt
           description: Experience the joy of improv in a welcoming, inclusive space. Our meetups are designed to spark laughter, creativity, and connection, making learning both impactful and unforgettable.

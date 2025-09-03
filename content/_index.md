@@ -3,6 +3,11 @@ title: 'Home'
 date: 2023-10-24
 type: landing
 
+header:
+  navbar:
+    # Display the navigation bar?
+    enable: true
+    
 design:
   # Default section spacing
   spacing: "6rem"

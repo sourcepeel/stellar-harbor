@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Grow Just by Showing Up
-      text: Transform Through Play
+      title: Get into the routine of showing up... for life
+      text: Grow Just by Showing Up
       primary_action:
         text: Get Started
         url: https://www.meetup.com/spark-chance-improv/events/
@@ -41,7 +41,7 @@ sections:
     id: features
     content:
       title: What we offer
-      text: Get into the routine of showing up... for life
+      text: Transform Through Play
       items:
         - name: Tailored Training for All Levels
           icon: magnifying-glass

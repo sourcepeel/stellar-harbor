@@ -15,7 +15,9 @@ design:
 sections:
   - block: hero
     content:
-      title: Get into the routine of showing up... for life
+      title: |
+        Get into the routine of showing up...
+        for life
       text: Transform Through Play
       primary_action:
         text: Show up

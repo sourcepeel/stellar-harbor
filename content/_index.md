@@ -50,7 +50,7 @@ sections:
           icon: bolt
           description: Experience the joy of improv in a welcoming, inclusive space. Our meetups are designed to spark laughter, creativity, and connection, making learning both impactful and unforgettable.
         - name: Reaccess Forgotten Potential
-          icon: sparkless
+          icon: sparkles
           description: Improv’s playful exercises quietly dissolve self-doubt and fear, helping you break through personal barriers. Discover newfound confidence and creativity as you embrace spontaneity in a supportive, fun environment.
         - name: Personal Growth
           icon: star

@@ -10,20 +10,17 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Grow Just by Showing Up
+      text: Transform Through Play
       primary_action:
         text: Get Started
-        url: https://hugoblox.com/templates/
+        url: https://www.meetup.com/spark-chance-improv/events/
         icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
       announcement:
-        text: "Announcing the release of version 1."
+        text: "Now meeting once a week."
         link:
-          text: "Read more"
-          url: "/blog/"
+          text: "Join in"
+          url: "https://www.meetup.com/spark-chance-improv/events/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -40,51 +37,31 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: stats
-    content:
-      items:
-        - statistic: "1M+"
-          description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
-          description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
-          description: |
-            Discord community  
-            for support
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
   - block: features
     id: features
     content:
-      title: Features
-      text: Build your site with blocks 🧱
+      title: What we offer
+      text: Get into the routine of showing up... for life
       items:
-        - name: Optimized SEO
+        - name: Tailored Training for All Levels
           icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
+          description: Whether you're a beginner exploring improv for fun or a seasoned clown sharpening your skills, Spark Chance offers customises our meetups for every skill level. From foundational techniques to structured scene work, we meet you where you are.
+        - name: Fun vibes
           icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: sparkles
+          description: Experience the joy of improv in a welcoming, inclusive space. Our meetups are designed to spark laughter, creativity, and connection, making learning both impactful and unforgettable.
+        - name: Reaccess Forgotten Potential
+Improv’s playful exercises quietly dissolve self-doubt and fear, helping you break through personal barriers. Discover newfound confidence and creativity as you embrace spontaneity in a supportive, fun environment.
+          icon: sparkless
           description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
+          - name: Personal Growth
           icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
+          description: Build confidence, quick thinking, and emotional intelligence through improv. Our exercises, inspired by techniques like Viola Spolin’s, help you navigate life’s challenges with creativity and resilience.
+        - name: Playful De-Stress with a Twist
+          icon: code-bracket
+          description: Our bold, fun-filled workshops turn stress into laughter with a touch of sass. Dive into improv’s quirky world and feel refreshed, no meditation required.
+        - name: Unshakeable Strength Through Play
           icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+          description: Develop the mental toughness to face life’s ups and downs through fun improv scenarios. You’ll master staying grounded and resourceful, ready for any situation with a smile.
   - block: cta-image-paragraph
     id: solutions
     content:

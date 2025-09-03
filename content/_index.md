@@ -53,7 +53,7 @@ sections:
 Improv’s playful exercises quietly dissolve self-doubt and fear, helping you break through personal barriers. Discover newfound confidence and creativity as you embrace spontaneity in a supportive, fun environment.
           icon: sparkless
           description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-          - name: Personal Growth
+        - name: Personal Growth
           icon: star
           description: Build confidence, quick thinking, and emotional intelligence through improv. Our exercises, inspired by techniques like Viola Spolin’s, help you navigate life’s challenges with creativity and resilience.
         - name: Playful De-Stress with a Twist

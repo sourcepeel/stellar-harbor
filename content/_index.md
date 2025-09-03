@@ -108,11 +108,11 @@ sections:
         padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
-      title: Build your future-proof website
-      text: As easy as 1, 2, 3!
+      title: Inspire Limitless Ideas
+      text: Our fun, high-energy classes fan the flames of your creativity through spontaneous storytelling and collaboration. Watch your ideas soar in a supportive, imaginative environment.
       button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Show up
+            url: https://www.meetup.com/spark-chance-improv/events/
     design:
       card:
         # Card background color (CSS class)

@@ -6,7 +6,7 @@ type: landing
 header:
   navbar:
     # Display the navigation bar?
-    enable: true
+    enable: false
     
 design:
   # Default section spacing
